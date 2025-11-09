@@ -11,13 +11,15 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2029%20mins-blue)
 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-42%20lines%20of%20code-blue)
+
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌙 Night                  11 commits          █████████████████████████   100.00 % 
+🌙 Night                  12 commits          █████████████████████████   100.00 % 
 ```
 
 
@@ -55,12 +57,8 @@ Go                       1 repo              ███████████�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/DrPepperaholic/DrPepperaholic/main/assets/bar_graph.png)
-
-
- Last Updated on 09/11/2025 02:32:04 UTC
+ Last Updated on 09/11/2025 02:36:52 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=drpepperaholic&color=6b2014)
