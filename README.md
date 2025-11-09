@@ -8,6 +8,7 @@
 - 🌱 I am just starting out, so I can't contribute anything impressive yet, but I will soon! :D
 </p>
 
+![](https://komarev.com/ghpvc/?username=drpepperaholic&color=6b2014)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2029%20mins-blue)
 
@@ -60,5 +61,3 @@ Go                       1 repo              ███████████�
 
  Last Updated on 09/11/2025 02:36:52 UTC
 <!--END_SECTION:waka-->
-
-![](https://komarev.com/ghpvc/?username=drpepperaholic&color=6b2014)
