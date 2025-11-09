@@ -8,4 +8,7 @@
 - 🌱 I am just starting out, so I can't contribute anything impressive yet, but I will soon! :D
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ![](https://komarev.com/ghpvc/?username=drpepperaholic&color=6b2014)
