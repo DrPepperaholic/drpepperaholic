@@ -11,20 +11,6 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2029%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 6 Bytes Used in GitHub's Storage 
- > 
-> 🏆 13 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 2 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
 **I'm a Night 🦉** 
 
 ```text
@@ -32,17 +18,6 @@
 🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 🌙 Night                  11 commits          █████████████████████████   100.00 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Thursday                 2 commits           █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   9 commits           ████████████████████░░░░░   81.82 % 
 ```
 
 
@@ -85,7 +60,7 @@ Go                       1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/DrPepperaholic/DrPepperaholic/main/assets/bar_graph.png)
 
 
- Last Updated on 09/11/2025 02:30:41 UTC
+ Last Updated on 09/11/2025 02:32:04 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=drpepperaholic&color=6b2014)
