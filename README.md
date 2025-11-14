@@ -8,7 +8,6 @@
 - 🌱 I am just starting out, so I can't contribute anything impressive yet, but I will soon! :D
 </p>
 
-![](https://komarev.com/ghpvc/?username=drpepperaholic&color=6b2014)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2023%20mins-blue)
 
